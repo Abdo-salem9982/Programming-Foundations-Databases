@@ -24,4 +24,4 @@ Once you get beyond basic programming, you'll need a database. Databases provide
 
 ### Certificate [Link](https://www.linkedin.com/learning/certificates/d6c6d092bcad98b4ff3a670f10eece2918785568b4c4c67f1ce2d3506350ab18?trk=share_certificate)
 
-### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/7-Programming-Foundations-Databases-1h-25m-14cf5b3861434ee392689e3591ec01a4)
+### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/07-Programming-Foundations-Databases-9ad356682c994672b0fc82a37e53dae4)
